@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.mmall.dao.OrderMapper" >
-  <resultMap id="BaseResultMap" type="com.mmall.pojo.Order" >
+<mapper namespace="com.dry3.dao.OrderMapper" >
+  <resultMap id="BaseResultMap" type="com.dry3.pojo.Order" >
     <constructor >
       <idArg column="id" jdbcType="INTEGER" javaType="java.lang.Integer" />
       <arg column="order_no" jdbcType="BIGINT" javaType="java.lang.Long" />
@@ -33,7 +33,7 @@
     delete from mmall_order
     where id = #{id,jdbcType=INTEGER}
   </delete>
-  <insert id="insert" parameterType="com.mmall.pojo.Order" >
+  <insert id="insert" parameterType="com.dry3.pojo.Order" >
     insert into mmall_order (id, order_no, user_id, 
       shipping_id, payment, payment_type, 
       postage, status, payment_time, 
@@ -45,7 +45,7 @@
       #{sendTime,jdbcType=TIMESTAMP}, #{endTime,jdbcType=TIMESTAMP}, #{closeTime,jdbcType=TIMESTAMP}, 
       now(), now())
   </insert>
-  <insert id="insertSelective" parameterType="com.mmall.pojo.Order" >
+  <insert id="insertSelective" parameterType="com.dry3.pojo.Order" >
     insert into mmall_order
     <trim prefix="(" suffix=")" suffixOverrides="," >
       <if test="id != null" >
@@ -136,7 +136,7 @@
       </if>
     </trim>
   </insert>
-  <update id="updateByPrimaryKeySelective" parameterType="com.mmall.pojo.Order" >
+  <update id="updateByPrimaryKeySelective" parameterType="com.dry3.pojo.Order" >
     update mmall_order
     <set >
       <if test="orderNo != null" >
@@ -181,7 +181,7 @@
     </set>
     where id = #{id,jdbcType=INTEGER}
   </update>
-  <update id="updateByPrimaryKey" parameterType="com.mmall.pojo.Order" >
+  <update id="updateByPrimaryKey" parameterType="com.dry3.pojo.Order" >
     update mmall_order
     set order_no = #{orderNo,jdbcType=BIGINT},
       user_id = #{userId,jdbcType=INTEGER},
@@ -198,55 +198,4 @@
       update_time = now()
     where id = #{id,jdbcType=INTEGER}
   </update>
-
-
-  <select id="selectByUserIdAndOrderNo" resultMap="BaseResultMap" parameterType="map">
-    SELECT
-    <include refid="Base_Column_List"></include>
-    from mmall_order
-    where order_no = #{orderNo}
-    and user_id = #{userId}
-  </select>
-
-
-  <select id="selectByOrderNo" resultMap="BaseResultMap" parameterType="long">
-    SELECT
-    <include refid="Base_Column_List">
-    </include>
-    FROM  mmall_order
-    where order_no = #{orderNo}
-  </select>
-
-
-
-  <select id="selectByUserId" resultMap="BaseResultMap" parameterType="int">
-    SELECT
-      <include refid="Base_Column_List"/>
-    from mmall_order
-    where user_id = #{userId}
-    order by create_time desc
-  </select>
-
-
-
-  <select id="selectAllOrder" resultMap="BaseResultMap">
-    SELECT
-    <include refid="Base_Column_List"/>
-    from mmall_order
-    ORDER BY  create_time desc
-  </select>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </mapper>
