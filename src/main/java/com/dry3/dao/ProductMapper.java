@@ -1,17 +1,1 @@
-package com.dry3.dao;
-
-import com.dry3.pojo.Product;
-
-public interface ProductMapper {
-    int deleteByPrimaryKey(Integer id);
-
-    int insert(Product record);
-
-    int insertSelective(Product record);
-
-    Product selectByPrimaryKey(Integer id);
-
-    int updateByPrimaryKeySelective(Product record);
-
-    int updateByPrimaryKey(Product record);
-}
+package com.dry3.dao;import com.dry3.pojo.Product;import java.util.List;public interface ProductMapper {    int deleteByPrimaryKey(Integer id);    int insert(Product record);    int insertSelective(Product record);    Product selectByPrimaryKey(Integer id);    int updateByPrimaryKeySelective(Product record);    int updateByPrimaryKey(Product record);    List<Product> listProduct();}

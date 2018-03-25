@@ -1,0 +1,1 @@
+package com.dry3.service;import com.dry3.common.ServerResponse;import com.github.pagehelper.PageInfo;/** * Created by dry3 */public interface IProductService {    ServerResponse<PageInfo> listProduct(Integer pageNum, Integer pageSize);}
