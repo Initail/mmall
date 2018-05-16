@@ -1,0 +1,1 @@
+package com.dry3.service;import com.dry3.common.ServerResponse;import java.util.Map;/** * Created by dry3 */public interface IOrderService {    ServerResponse<Map> pay(Long orderNo, String path, Integer userId);    ServerResponse aliCallback(Map<String,String> params);    ServerResponse queryOrderPayStatus(Integer userId,Long orderNo);}

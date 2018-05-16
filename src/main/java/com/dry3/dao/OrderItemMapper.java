@@ -1,17 +1,1 @@
-package com.dry3.dao;
-
-import com.dry3.pojo.OrderItem;
-
-public interface OrderItemMapper {
-    int deleteByPrimaryKey(Integer id);
-
-    int insert(OrderItem record);
-
-    int insertSelective(OrderItem record);
-
-    OrderItem selectByPrimaryKey(Integer id);
-
-    int updateByPrimaryKeySelective(OrderItem record);
-
-    int updateByPrimaryKey(OrderItem record);
-}
+package com.dry3.dao;import com.dry3.pojo.OrderItem;import org.apache.ibatis.annotations.Param;import java.util.List;public interface OrderItemMapper {    int deleteByPrimaryKey(Integer id);    int insert(OrderItem record);    int insertSelective(OrderItem record);    OrderItem selectByPrimaryKey(Integer id);    int updateByPrimaryKeySelective(OrderItem record);    int updateByPrimaryKey(OrderItem record);    List<OrderItem> listByUserIdAndOrderNo(@Param("orderNo")Long orderNo, @Param("userId")Integer userId);}
