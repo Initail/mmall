@@ -7,90 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca3a6fb-96e9-43b6-97cc-2a0f02ba309b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065343.404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065355.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065404.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065405-1.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065405-2.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065405.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065603.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-05-16T065607.200.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/common/interceptor/LoginInterceptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dry3/common/interceptor/LoginInterceptor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$ProductListOrderBy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/interceptor/LoginInterceptor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/OrderManageController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/ProductController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/ShippingController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IShippingService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/ShippingServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderItemVo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderProductVo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderVo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ShippingVo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/upload/qr-1492091061513.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/upload/qr-1492091083720.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/upload/qr-1526549290021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/mmall/upload/qr-1526558571903.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/CategoryManageController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/CategoryManageController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/CartController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/CartController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/OrderController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/OrderController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/UserController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/dao/CartMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/dao/CartMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/dao/ProductMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/dao/ProductMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/ProductServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/ProductServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/vo/ProductListVo.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/vo/ProductListVo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mmall.properties" afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JavaTest.java" afterPath="$PROJECT_DIR$/src/test/java/JavaTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/CategoryManageController.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/CategoryManageController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/CartController.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/CartController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/OrderController.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/OrderController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/CartMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/dao/CartMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/ProductMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/dao/ProductMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/ProductServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/ProductServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/ProductListVo.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/vo/ProductListVo.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datasource.properties" afterPath="$PROJECT_DIR$/target/classes/datasource.properties" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/ShippingMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mappers/ShippingMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mmall.properties" afterPath="$PROJECT_DIR$/target/classes/mmall.properties" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$OrderStatusEnum.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$OrderStatusEnum.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PayPlatformEnum.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PayPlatformEnum.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PaymentTypeEnum.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PaymentTypeEnum.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$ProductStatusEnum.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$ProductStatusEnum.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/CategoryManageController.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/CategoryManageController.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/CartController.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/CartController.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/OrderController.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/OrderController.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/UserController.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/CartMapper.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/CartMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/OrderItemMapper.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/OrderItemMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ProductMapper.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ProductMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ShippingMapper.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ShippingMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IOrderService.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IOrderService.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IProductService.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IProductService.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl$1.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/ProductServiceImpl.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/ProductServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ProductListVo.class" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ProductListVo.class" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/CartMapper.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/CartMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/OrderItemMapper.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/OrderItemMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ProductMapper.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ProductMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ShippingMapper.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ShippingMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaTest.class" afterPath="$PROJECT_DIR$/target/test-classes/JavaTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/ProductManageController.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/ProductManageController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/FileServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/FileServiceImpl.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -119,18 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginInterceptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/common/interceptor/LoginInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mmall.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mmall.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -161,11 +70,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datasource.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="-648">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductManageController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -196,16 +125,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-datasource.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -271,7 +190,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/util/BigDecimalUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/CartServoceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/ICartService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/pojo/OrderItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/dao/OrderMapper.java" />
@@ -300,7 +218,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/dao/CartMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/controller/portal/CartController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/vo/ProductListVo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/CategoryManageController.java" />
@@ -311,6 +228,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/mmall.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -417,7 +336,85 @@
             <path>
               <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dry3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dry3" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dry3" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dry3" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dry3" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1068,12 +1065,12 @@
       <workItem from="1526510520026" duration="6658000" />
       <workItem from="1526546812274" duration="8047000" />
       <workItem from="1526560921436" duration="2983000" />
-      <workItem from="1526568499813" duration="460000" />
+      <workItem from="1526568499813" duration="2197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243049000" />
+    <option name="totallyTimeSpent" value="244786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1156,20 +1153,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="192" column="19" lean-forward="false" selection-start-line="192" selection-start-column="19" selection-end-line="192" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/pojo/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1237,6 +1220,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="131" column="9" lean-forward="true" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+          <folding>
+            <marker date="1521949328373" expanded="true" signature="1071:1181" ph="select from mmall_category" />
+            <marker date="1521949328373" expanded="true" signature="1267:1331" ph="delete from mmall_category... " />
+            <marker date="1521949328373" expanded="true" signature="1410:1692" ph="insert into mmall_category... " />
+            <marker date="1521949328373" expanded="true" signature="3015:3645" ph="update mmall_category... " />
+            <marker date="1521949328373" expanded="true" signature="3736:4053" ph="update mmall_category... " />
+            <marker date="1521949328373" expanded="true" signature="4150:4230" ph="SELECT COUNT... mmall_category" />
+            <marker date="1521949328373" expanded="true" signature="4346:4463" ph="SELECT FROM mmall_category" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1300,6 +1292,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="152" column="14" lean-forward="false" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
+          <folding>
+            <marker date="1526548773827" expanded="true" signature="1074:1180" ph="select from mmall_cart" />
+            <marker date="1526548773827" expanded="true" signature="1266:1326" ph="delete from mmall_cart... " />
+            <marker date="1526548773827" expanded="true" signature="1401:1689" ph="insert into mmall_cart... " />
+            <marker date="1526548773827" expanded="true" signature="3016:3655" ph="update mmall_cart... " />
+            <marker date="1526548773827" expanded="true" signature="3742:4065" ph="update mmall_cart... " />
+            <marker date="1526548773827" expanded="true" signature="4171:4314" ph="SELECT FROM mmall_cart" />
+            <marker date="1526548773827" expanded="true" signature="4421:4529" ph="SELECT FROM mmall_cart" />
+            <marker date="1526548773827" expanded="true" signature="4633:4718" ph="SELECT COUNT... mmall_cart" />
+            <marker date="1526548773827" expanded="true" signature="5521:5618" ph="SELECT NULLI... " />
+            <marker date="1526548773827" expanded="true" signature="5732:5864" ph="SELECT from mmall_cart" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,13 +1354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2178">
           <caret line="142" column="34" lean-forward="false" selection-start-line="142" selection-start-column="34" selection-end-line="142" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1454,7 +1451,7 @@
         <state relative-caret-position="480">
           <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1527,6 +1524,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding />
         </state>
       </provider>
