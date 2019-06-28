@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca3a6fb-96e9-43b6-97cc-2a0f02ba309b" name="Default" comment="">
+    <list default="true" id="8ca3a6fb-96e9-43b6-97cc-2a0f02ba309b" name="Default" comment="190628 init">
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" afterDir="false" />
@@ -54,239 +54,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/zfbinfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/zfbinfo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/artifacts/mmall_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/artifacts/mmall_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext-datasource.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alipay/demo/trade/DemoHbRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alipay/demo/trade/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alipay/demo/trade/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$AlipayCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$OrderStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$PayPlatformEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$PaymentTypeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$ProductListOrderBy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$ProductStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const$Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/Const.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/ResponseCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/ServerResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/TokenCache$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/TokenCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/common/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/CategoryManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/OrderManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/ProductManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/backend/UserManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/CartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/ShippingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/controller/portal/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/CartMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/CategoryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/OrderItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/PayInfoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/ShippingMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/dao/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/PayInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/Shipping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/ICartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/ICategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/IFileService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/IOrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/IProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/IShippingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/IUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/CartServoceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/CategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/FileServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/OrderServiceImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/ShippingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/service/Impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/util/BigDecimalUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/util/DateTimeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/util/FTPUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/util/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/util/PropertiesUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/CartProductVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/CartVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/OrderItemVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/OrderProductVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/OrderVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/ProductDetailVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/ProductListVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dry3/vo/ShippingVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datasource.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/OrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/PayInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/ShippingMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mmall.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zfbinfo.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/applicationContext-datasource.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/alipay/demo/trade/DemoHbRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/alipay/demo/trade/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/alipay/demo/trade/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$AlipayCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$OrderStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PayPlatformEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$PaymentTypeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$ProductListOrderBy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$ProductStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const$Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/Const.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/ResponseCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/ServerResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/TokenCache$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/TokenCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/common/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/CategoryManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/OrderManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/ProductManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/backend/UserManageController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/CartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/ShippingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/controller/portal/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/CartMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/CategoryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/OrderItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/PayInfoMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/ShippingMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/dao/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/PayInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/Shipping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/ICartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/ICategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IFileService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IOrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IShippingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/IUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/CartServoceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/CategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/FileServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/ShippingServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/service/Impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/util/BigDecimalUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/util/DateTimeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/util/FTPUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/util/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/util/PropertiesUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/CartProductVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/CartVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderItemVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderProductVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/OrderVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ProductDetailVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ProductListVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/com/dry3/vo/ShippingVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/datasource.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/CartMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/CategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/OrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/PayInfoMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/ShippingMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mappers/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/mmall.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/classes/zfbinfo.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/alipay-sdk-java20161213173952.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/alipay-trade-sdk-20161215-source.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/alipay-trade-sdk-20161215.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/aspectjrt-1.6.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/aspectjweaver-1.7.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-configuration-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-dbcp-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-lang3-3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-net-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-pool-1.5.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/commons-pool2-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/core-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/gson-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/guava-20.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/hashids-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/jackson-core-asl-1.9.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/jackson-mapper-asl-1.9.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/jedis-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/joda-time-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/logback-classic-1.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/logback-core-1.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/mybatis-3.4.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/mybatis-paginator-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/mybatis-spring-1.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/mysql-connector-java-5.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/pagehelper-4.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/slf4j-api-1.7.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-jdbc-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-oxm-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-test-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-tx-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/lib/tomcat-servlet-api-7.0.64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1491830695216.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1492089528889.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1492091061513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1492091083720.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1526549290021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mmall/upload/qr-1526558571903.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -339,12 +106,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="properties" value="9" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="14" />
           <entry key="Properties" value="9" />
         </counts>
       </usages-collector>
@@ -373,8 +140,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="248">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -554,10 +321,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/mmall.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/controller/backend/ProductManageController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dry3/service/Impl/FileServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/zfbinfo.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -650,24 +417,6 @@
               <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="mmall" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -680,7 +429,7 @@
     <property name="SearchEverywhereHistoryKey" value="HandlerInter&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerInterceptor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561733507944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561733770891" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1252,12 +1001,20 @@
       <workItem from="1526560921436" duration="2983000" />
       <workItem from="1526568499813" duration="2197000" />
       <workItem from="1561732237856" duration="1037000" />
-      <workItem from="1561733413544" duration="47000" />
+      <workItem from="1561733413544" duration="304000" />
     </task>
+    <task id="LOCAL-00001" summary="190628 init">
+      <created>1561733611990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561733611990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245870000" />
+    <option name="totallyTimeSpent" value="246127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1271,7 +1028,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -1288,9 +1045,9 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49253732" weight="0.32826087" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5074627" side_tool="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32979852" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" x="0" y="364" width="1908" height="311" id="Terminal" order="11" sideWeight="0.48880598" visible="true" weight="0.3277592" />
+      <window_info anchor="bottom" x="0" y="364" width="1908" height="311" id="Terminal" order="11" sideWeight="0.48880598" weight="0.3277592" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32934782" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32934782" />
       <window_info anchor="bottom" id="REST Client" order="14" visible="true" weight="0.33006537" />
@@ -1312,6 +1069,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="190628 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="190628 init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1646,8 +1407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="248">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -1,1 +1,0 @@
-{    "status": 0,    "msg": "登录成功",    "data": {        "id": 1,        "username": "admin",        "password": "",        "email": "admin@happymmall.com",        "phone": "13800138000",        "question": "问题",        "answer": "答案",        "role": 1,        "createTime": 1478422605000,        "updateTime": 1491305256000    }}
